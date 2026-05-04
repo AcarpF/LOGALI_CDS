@@ -1,0 +1,4 @@
+@EndUserText.label: 'ZSD_Empl_T101081'
+define service ZSD_Empl_T101081 {
+  expose ZCE_Employee_T101081;
+}

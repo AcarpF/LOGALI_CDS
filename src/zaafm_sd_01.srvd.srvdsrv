@@ -1,0 +1,4 @@
+@EndUserText.label: 'Exponer Employee'
+define service ZAAFM_SD_01 {
+  expose ZAAFM_CDS_E_02;
+}
